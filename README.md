@@ -1,4 +1,4 @@
-<p align="center"># 🏠 Hello🙋, my name is Anastasiia</p>
+<h1 align="center"># 🏠 Hello🙋, my name is Anastasiia</h1>
 ### Studying SMART methodology and moving towards my goals💻
 
 
