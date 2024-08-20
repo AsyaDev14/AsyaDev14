@@ -7,7 +7,7 @@ I'm a passionate full-stack developer with experience creating innovative soluti
 - **Front-end:** HTML, CSS, JavaScript, React
 - **Back-end:** Node.js
 - **Databases:** MongoDB
-- 
+
 ## 🎯 Why Me?
 
 - Responsible
