@@ -1,13 +1,25 @@
-<h1 align="center"> 🏠 Hello🙋, my name is Anastasiia</h1>
-## Studying SMART methodology and moving towards my goals💻
+# Hello! I'm Anastasiia 👋
 
+I'm a passionate full-stack developer with experience creating innovative solutions.
 
+## 🛠️ Skills
 
-## 💡 About Me
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Back-end:** Node.js
+- **Databases:** MongoDB
 
-- 📖 I`m learning Node.js, TypeScript
-- 💌 You can write to me at farafonovaasya1403@gmail.com
+## 🎯 Why Me?
 
+- Responsible
+- Strong team player
+- Quick learner
+
+## 📫 Contact Me
+
+- **Email:** farafonovaasya1403@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/anastasiia-farafonova/
+
+Let's connect and discuss how I can contribute to your team!
 
 ## 🔨 Skills
  
@@ -29,5 +41,4 @@
 
 <br><br><br>
 
-## 📰 Social links
- - [LinkedIn](https://www.linkedin.com/in/anastasiia-farafonova/)
+
